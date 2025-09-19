@@ -64,5 +64,3 @@ Fluffy Flats isn’t just code — it’s a ✨vibe✨.
 Thank you for stopping by this mystical digital apartment.
 Stay cozy, stay fluffy, and may your bugs be ever tiny 🐛✨.
 
-pgsql
-Copy code
